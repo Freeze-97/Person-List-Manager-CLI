@@ -1,4 +1,4 @@
-# 🧑 Person List Manager
+# Person List Manager
 A C++ program for managing a list of people. You can add, view, sort, search, delete, save to file, and load from file.
 
 ## Features
